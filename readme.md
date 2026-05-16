@@ -119,9 +119,9 @@ Developed entirely in Kotlin using modern Jetpack Compose architecture, this app
 </div>
 
 
-
-https://github.com/user-attachments/assets/d1341d59-73d5-4995-b888-aa5ae85ad1ba
-
+<a href="https://drive.google.com/file/d/1H7o_Ec3MGZDNMXPKZYy9gsRgmMFAIzRX/view?usp=drive_link" target="_blank">
+  <img src="./screenshots/dashboardd.jpg" alt="Watch the Demo" width="600" />
+</a>
 
 
 **Developed by:** Sundar S.
