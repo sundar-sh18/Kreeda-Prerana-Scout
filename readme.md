@@ -67,7 +67,7 @@ Developed entirely in Kotlin using modern Jetpack Compose architecture, this app
 1. Clone this repository to your local machine.
 2. Open the project in **Android Studio (Jellyfish or newer recommended)**.
 3. Ensure you have the JitPack repository added to your `settings.gradle.kts`:
-   ```kotlin
+```kotlin
    dependencyResolutionManagement {
        repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
        repositories {
