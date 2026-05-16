@@ -86,12 +86,49 @@ Developed entirely in Kotlin using modern Jetpack Compose architecture, this app
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="screenshots/dashboard.png" height="500" alt="Dashboard Screen" />
-  <img src="screenshots/timer.png" height="500" alt="Trial Logger" />
-  <img src="screenshots/curve.png" height="500" alt="Talent Curve" />
-  <img src="screenshots/card.png" height="500" alt="Performance Card" />
-</p>
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/dashboardl.jpg" height="500" alt="Dashboard Screen" /><br />
+      <img src="screenshots/dashboardd.jpg" height="500" alt="Dashboard Screen" /><br />
+      <b>Dashboard</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/register1.jpg" height="500" alt="Dashboard Screen" /><br />
+      <img src="screenshots/register2.jpg" height="500" alt="Dashboard Screen" /><br />
+      <img src="screenshots/register3.jpg" height="500" alt="Dashboard Screen" /><br />
+      <img src="screenshots/register4.jpg" height="500" alt="Dashboard Screen" /><br />
+      <b>Register Page and dashboard</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/log1.jpg" height="500" alt="Dashboard Screen" /><br />
+      <img src="screenshots/log2.jpg" height="500" alt="Dashboard Screen" /><br />
+      <img src="screenshots/log3.jpg" height="500" alt="Dashboard Screen" /><br />
+      <b>Trial Logger</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/curve1.jpg" height="500" alt="Trial Logger" /><br />
+      <img src="screenshots/curve2.jpg" height="500" alt="Trial Logger" /><br />
+      <b>Talent Curve</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/lead1.jpg" height="500" alt="Talent Curve" /><br />
+      <img src="screenshots/lead2.jpg" height="500" alt="Talent Curve" /><br />
+      <b>Leader Board</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/card1.jpg" height="500" alt="Performance Card" /><br />
+      <img src="screenshots/card2.jpg" height="500" alt="Performance Card" /><br />
+      <b>Performance Card</b>
+    </td>
+  </tr>
+</table>
 
 
 **Developed by:** Sundar S.
