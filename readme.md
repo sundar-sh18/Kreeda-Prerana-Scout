@@ -84,9 +84,14 @@ Developed entirely in Kotlin using modern Jetpack Compose architecture, this app
 
 ## Screenshots
 
-![Home Page with light theme](./screenshots/Screenshot_2026-05-08-03-13-21-47_720a3285ebd74f7acfa0d19bd9176eb2.jpg)
-![Home Page with dark theme](./screenshots/Screenshot_2026-05-08-03-13-24-91_720a3285ebd74f7acfa0d19bd9176eb2.jpg)
+## 📸 Screenshots
 
+<p align="center">
+  <img src="screenshots/dashboard.png" height="500" alt="Dashboard Screen" />
+  <img src="screenshots/timer.png" height="500" alt="Trial Logger" />
+  <img src="screenshots/curve.png" height="500" alt="Talent Curve" />
+  <img src="screenshots/card.png" height="500" alt="Performance Card" />
+</p>
 
 
 **Developed by:** Sundar S.
